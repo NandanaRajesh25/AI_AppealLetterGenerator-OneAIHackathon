@@ -38,7 +38,7 @@ A Streamlit app that generates professional **insurance appeal letters** using *
 
 ```bash
 # Clone repo
-git clone https://github.com/your-username/ai-appeal-letter-generator.git
+git clone https://nandanarajesh25.github.io
 cd ai-appeal-letter-generator
 
 # Install dependencies
